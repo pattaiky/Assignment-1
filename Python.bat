@@ -1,2 +1,2 @@
-*/python/Code.py
+python/Code.py
 pause
