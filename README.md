@@ -1,2 +1,1 @@
-# Assignment-1
-Assignment-1 for SC313004 Software Engineering - DevOps and CI/CD
+Assignment#1 วิชา SC313004 Software Engineering - DevOps and CI/CD 613020231-6 นางสาววนิดา กลิ่นสวัสดิ์
