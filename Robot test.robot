@@ -1,2 +1,8 @@
-Test open browser
-  Open Browser  https://google.com  Chrome
+*** Settings ***
+Library  SeleniumLibrary
+*** Variables ***
+${HOMEPAGE}  http://www.google.com
+${BROWSER}  chrome
+*** Test Cases ***
+Go To homepage
+  Open Browser  ${HOMEPAGE}  ${BROWSER}
